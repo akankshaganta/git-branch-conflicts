@@ -4,7 +4,7 @@ from botocore.exceptions import ClientError
 # Create S3 client
 s3 = boto3.client("s3")
 
-bucket_name = "my-unique-bucket-name-12345"
+bucket_name = "akankshaganta"
 region = "ap-south-1"   # Mumbai region
 
 try:
